@@ -19,7 +19,7 @@ To get started, import the necessary modules and create a Client instance. Repla
 ```python
 import comon.api as comon_api
 
-client = comon_api.Client("https://localhost:44311")
+client = comon_api.Client("http://localhost:8080")
 ```
 
 Create your status:
